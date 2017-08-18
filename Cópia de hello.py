@@ -1,8 +1,5 @@
 #!/usr/bin/python
 
-print "Content-Type: text/html\n\n"
-
-
 a = input("Quantidade total de VG?: ")
 b = input("Quantidade total de PG?: ")
 c = input("Tamanho de cada frasco?: ")
